@@ -11,7 +11,7 @@ Here are a few resources for learning more about the Loozr project; a token-base
 - Twitter: https://twitter.com/officialloozr
 
 
-With our no-code automated smart contract launchpad and user friendly interface allows users to Trade2Earn, Listen2Earn, Hodl2Earn and Budl2Earn.
+With our no-code automated smart contract launchpad and user friendly interface, Loozr empowers users to Trade2Earn, Listen2Earn, Hodl2Earn and Budl2Earn.
 
 
 #### Loozr actualizes these dreams through her 5 Flagship Products: 
