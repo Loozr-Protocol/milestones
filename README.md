@@ -92,7 +92,7 @@ b. Enter the amount of artist coin you wish to exchange for LZR.
 
 
 # Evidence for Requirement 2: 
-Artists and labels on currently on the Loozr ecosystem here https://docs.google.com/document/d/1XvJZ4snTMBDVfsFzywoHk65VEDXALDFp8WNmeI971PU/edit?usp=sharing 
+Artists and labels currently on the Loozr ecosystem here https://docs.google.com/document/d/1XvJZ4snTMBDVfsFzywoHk65VEDXALDFp8WNmeI971PU/edit?usp=sharing 
 
 
 
