@@ -38,6 +38,7 @@ Run dApp in the Beta mode:
 
 - Login [https://loozr-official-homepage2.vercel.app/login](https://loozr-official-homepage2.vercel.app/login) to view it in your browser.
 - Create New Account [https://loozr-official-homepage2.vercel.app/signup](https://loozr-official-homepage2.vercel.app/signup) -  No knowledge of crypto necessary. Upon signup, a unique NEAR subdomain account for LZR is created (e.g username.lzr.testnet).
+- Launch your artist token 
 
 
 # Milestone 1.
