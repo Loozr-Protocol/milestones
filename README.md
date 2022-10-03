@@ -91,11 +91,7 @@ b. Enter the amount of artist coin you wish to exchange for LZR.
 
 
 # Evidence for Requirement 2: 
-1,000 User target waitlisting launched. Over 5,000 active community users and growing attention and partnerships 
-- 2,700 Twitter 
-- 165 Telegram 
-- 88 Discord 
-- 704 are currently on Testnet waitlisting.
+Artists and labels on currently on the Loozr ecosystem here https://docs.google.com/document/d/1XvJZ4snTMBDVfsFzywoHk65VEDXALDFp8WNmeI971PU/edit?usp=sharing 
 
 
 
